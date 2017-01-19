@@ -13,6 +13,6 @@ app.get('/', function(req, res){
 	res.sendfile(__dirname + '/index.html');
 });
 
-app.listen(process.env.PORT || 3000, function(){
-	console.log("Hey man, Im listening on the *3000");
+app.listen(process.env.PORT || 3001, function(){
+	console.log("Hey man, Im listening on the *3001");
 });

@@ -1,0 +1,16 @@
+body {
+/*	background-image: url("http://blog.beliefnet.com/lessonsfromarecoveringdoormat/files/2012/02/friends.jpg");
+*/
+}
+
+#navBar{
+
+	background-color: powderblue;
+	border: solid black;
+}
+
+#friend{
+	border-color: solid black;
+	border-width: 50px;
+	background-color: gray;
+}

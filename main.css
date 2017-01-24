@@ -1,6 +1,6 @@
 body {
-/*	background-image: url("http://blog.beliefnet.com/lessonsfromarecoveringdoormat/files/2012/02/friends.jpg");
-*/
+	background-image: url("http://blog.beliefnet.com/lessonsfromarecoveringdoormat/files/2012/02/friends.jpg");
+
 }
 
 #navBar{
@@ -13,4 +13,20 @@ body {
 	border-color: solid black;
 	border-width: 50px;
 	background-color: gray;
+}
+
+th {
+	list-style: none;
+	color: black;
+}
+th:nth-child(even){	
+	background-color: #DDD;
+	font-size: 30px;
+	background-image: 
+}
+
+th:nth-child(odd){
+	background-color: #EEE;
+	font-size: 25px;
+		
 }
